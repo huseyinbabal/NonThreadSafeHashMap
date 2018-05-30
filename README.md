@@ -1,3 +1,3 @@
-### Howto Run
+### How to Run
 
 `mvn clean test`
